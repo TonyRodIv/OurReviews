@@ -16,8 +16,8 @@ const reviews = [
     {
         name: "Leticia Dias",
         job: "Dev Fullstack",
-        color: "#4B2D73",
-        image: "https://media.licdn.com/dms/image/C4D03AQHhNu-eqyBrsg/profile-displayphoto-shrink_200_200/0/1662335170139?e=1688601600&v=beta&t=3_kGhBDal337dSPXVUiZ-Ir-8RWTJlDp3EEDw24rXug",
+        color: "#312358",
+        image: "https://media.licdn.com/dms/image/D4D03AQEiCHHpUt-o9Q/profile-displayphoto-shrink_800_800/0/1683157258599?e=1688601600&v=beta&t=CHLh1elt3zCBjN-ZKH0Vnnq2mVqzjuAHRIzoKzTT7iI",
         text: "Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa. eum nobis asperiores velit vel sit nesciunt dolorem, labore, itaque libero delectus nulla?",
     },
     {
@@ -30,8 +30,8 @@ const reviews = [
     {
         name: "Mikael Ribeiro",
         job: "Dev Fullstack",
-        color: "#5051A3",
-        image: "https://media.licdn.com/dms/image/C4D03AQHAVdnCq1FTow/profile-displayphoto-shrink_200_200/0/1662434560751?e=1688601600&v=beta&t=RZstGkWJai288JpiAI-PS3_iWj8w44isyGSSE6FZqg8",
+        color: "#7F61FF",
+        image: "https://media.licdn.com/dms/image/D4D03AQE3rUIz_-NpKA/profile-displayphoto-shrink_800_800/0/1683140881290?e=1688601600&v=beta&t=0eN3tfR6DFRtbXzsZFOeg_8Uyb-ywvc2eFnaMStR9EM",
         text: "Helvetica artisan kindfolk thundercats. Disrupt glossier gastropub deep v vice frazen. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa.",
     }
 ]
